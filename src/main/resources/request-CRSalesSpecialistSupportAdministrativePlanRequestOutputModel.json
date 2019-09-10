@@ -1,0 +1,17 @@
+{
+  "requestRecordReference" : "RRR705767",
+  "salesSpecialistSupportAdministrativePlanRequestActionTaskRecord" : {},
+  "salesSpecialistSupportAdministrativePlanRequestActionTaskReference" : "SSSAPRATR738251",
+  "salesSpecialistSupportAdministrativePlanInstanceRecord" : {
+    "salesSpecialistSupportResourceAllocationServiceSchedule" : "salesSpecialistSupportResourceAllocationServiceSchedule",
+    "salesSpecialistSupportResourceRecord" : {
+      "salesSpecialistSupportAssignmentRecord" : {},
+      "salesSpecialistSupportResourceStatus" : "salesSpecialistSupportResourceStatus",
+      "salesSpecialistSupportLocationReference" : "728642",
+      "salesSpecialistSupportResourceQualificationProfile" : "salesSpecialistSupportResourceQualificationProfile",
+      "salesSpecialistSupportResourceAvailabilitySchedule" : "salesSpecialistSupportResourceAvailabilitySchedule"
+    },
+    "salesSpecialistSupportResourceReference" : "742398"
+  },
+  "requestResponseRecord" : {}
+}

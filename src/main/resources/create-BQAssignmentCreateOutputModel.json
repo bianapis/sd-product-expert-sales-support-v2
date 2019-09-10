@@ -1,0 +1,27 @@
+{
+  "assignmentInstanceRecord" : {
+    "salesSpecialistSupportAssignmentRequestType" : "salesSpecialistSupportAssignmentRequestType",
+    "salesSpecialistSupportAssignmentFee" : "USD 250",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "salesSpecialistSupportAssignmentResult" : "salesSpecialistSupportAssignmentResult",
+    "salesSpecialistSupportAssignmentLocation" : "salesSpecialistSupportAssignmentLocation",
+    "salesSpecialistSupportSessionWorkProducts" : "salesSpecialistSupportSessionWorkProducts"
+  },
+  "assignmentInitiateActionRecord" : {},
+  "salesSpecialistSupportAdministrativePlanInstanceRecord" : {
+    "salesSpecialistSupportResourceAllocationServiceSchedule" : "salesSpecialistSupportResourceAllocationServiceSchedule",
+    "salesSpecialistSupportResourceRecord" : {
+      "salesSpecialistSupportAssignmentRecord" : {},
+      "salesSpecialistSupportResourceStatus" : "salesSpecialistSupportResourceStatus",
+      "salesSpecialistSupportLocationReference" : "763867",
+      "salesSpecialistSupportResourceQualificationProfile" : "salesSpecialistSupportResourceQualificationProfile",
+      "salesSpecialistSupportResourceAvailabilitySchedule" : "salesSpecialistSupportResourceAvailabilitySchedule"
+    },
+    "salesSpecialistSupportResourceReference" : "795027"
+  },
+  "assignmentInstanceReference" : "AIR743211",
+  "assignmentInstanceStatus" : "assignmentInstanceStatus",
+  "assignmentInitiateActionReference" : "AIAR776595"
+}

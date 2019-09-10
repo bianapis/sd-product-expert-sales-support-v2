@@ -1,0 +1,17 @@
+{
+  "assignmentInstanceRecord" : {
+    "salesSpecialistSupportAssignmentRequestType" : "salesSpecialistSupportAssignmentRequestType",
+    "salesSpecialistSupportAssignmentFee" : "USD 250",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "salesSpecialistSupportAssignmentResult" : "salesSpecialistSupportAssignmentResult",
+    "salesSpecialistSupportAssignmentLocation" : "salesSpecialistSupportAssignmentLocation",
+    "salesSpecialistSupportAssignmentRequestRecord" : {},
+    "salesSpecialistSupportSessionWorkProducts" : "salesSpecialistSupportSessionWorkProducts"
+  },
+  "assignmentRequestRecordReference" : "ARRR740253",
+  "assignmentRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {},
+  "assignmentRequestActionTaskReference" : "ARATR784060"
+}

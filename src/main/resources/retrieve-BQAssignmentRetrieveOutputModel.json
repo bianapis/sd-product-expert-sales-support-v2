@@ -1,0 +1,39 @@
+{
+  "assignmentRetrieveActionTaskReference" : "ARATR707740",
+  "assignmentInstanceAnalysis" : {
+    "assignmentInstanceAnalysisReportType" : "assignmentInstanceAnalysisReportType",
+    "assignmentInstanceAnalysisReport" : {},
+    "assignmentInstanceAnalysisRecord" : {},
+    "assignmentInstanceAnalysisParameters" : "assignmentInstanceAnalysisParameters"
+  },
+  "assignmentInstanceRecord" : {
+    "salesSpecialistSupportAssignmentRequestType" : "salesSpecialistSupportAssignmentRequestType",
+    "salesSpecialistSupportAssignmentFee" : "USD 250",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "salesSpecialistSupportAssignmentResult" : "salesSpecialistSupportAssignmentResult",
+    "salesSpecialistSupportAssignmentLocation" : "salesSpecialistSupportAssignmentLocation",
+    "salesSpecialistSupportAssignmentRequestRecord" : {},
+    "salesSpecialistSupportSessionWorkProducts" : "salesSpecialistSupportSessionWorkProducts"
+  },
+  "salesSpecialistSupportAdministrativePlanInstanceRecord" : {
+    "salesSpecialistSupportResourceAllocationServiceSchedule" : "salesSpecialistSupportResourceAllocationServiceSchedule",
+    "salesSpecialistSupportResourceRecord" : {
+      "salesSpecialistSupportAssignmentRecord" : {},
+      "salesSpecialistSupportResourceStatus" : "salesSpecialistSupportResourceStatus",
+      "salesSpecialistSupportLocationReference" : "791959",
+      "salesSpecialistSupportResourceQualificationProfile" : "salesSpecialistSupportResourceQualificationProfile",
+      "salesSpecialistSupportResourceAvailabilitySchedule" : "salesSpecialistSupportResourceAvailabilitySchedule"
+    },
+    "salesSpecialistSupportResourceReference" : "708763"
+  },
+  "assignmentInstanceReport" : {
+    "assignmentInstanceReportType" : "assignmentInstanceReportType",
+    "assignmentInstanceReportParameters" : "assignmentInstanceReportParameters",
+    "assignmentInstanceReportRecord" : {},
+    "assignmentInstanceReport" : {}
+  },
+  "assignmentRetrieveActionTaskRecord" : {},
+  "assignmentRetrieveActionResponse" : "assignmentRetrieveActionResponse"
+}

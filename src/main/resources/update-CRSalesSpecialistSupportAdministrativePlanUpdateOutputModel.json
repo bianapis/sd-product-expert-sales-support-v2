@@ -1,0 +1,16 @@
+{
+  "salesSpecialistSupportAdministrativePlanUpdateActionTaskReference" : "SSSAPUATR727797",
+  "updateResponseRecord" : {},
+  "salesSpecialistSupportAdministrativePlanInstanceRecord" : {
+    "salesSpecialistSupportResourceAllocationServiceSchedule" : "salesSpecialistSupportResourceAllocationServiceSchedule",
+    "salesSpecialistSupportResourceRecord" : {
+      "salesSpecialistSupportAssignmentRecord" : {},
+      "salesSpecialistSupportResourceStatus" : "salesSpecialistSupportResourceStatus",
+      "salesSpecialistSupportLocationReference" : "795689",
+      "salesSpecialistSupportResourceQualificationProfile" : "salesSpecialistSupportResourceQualificationProfile",
+      "salesSpecialistSupportResourceAvailabilitySchedule" : "salesSpecialistSupportResourceAvailabilitySchedule"
+    },
+    "salesSpecialistSupportResourceReference" : "797453"
+  },
+  "salesSpecialistSupportAdministrativePlanUpdateActionTaskRecord" : {}
+}

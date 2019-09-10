@@ -1,0 +1,26 @@
+{
+  "salesSpecialistSupportAdministrativePlanRetrieveActionTaskRecord" : {},
+  "salesSpecialistSupportAdministrativePlanInstanceRecord" : {
+    "salesSpecialistSupportResourceAllocationServiceSchedule" : "salesSpecialistSupportResourceAllocationServiceSchedule",
+    "salesSpecialistSupportResourceRecord" : {
+      "salesSpecialistSupportAssignmentRecord" : {},
+      "salesSpecialistSupportResourceStatus" : "salesSpecialistSupportResourceStatus",
+      "salesSpecialistSupportLocationReference" : "768770",
+      "salesSpecialistSupportResourceQualificationProfile" : "salesSpecialistSupportResourceQualificationProfile",
+      "salesSpecialistSupportResourceAvailabilitySchedule" : "salesSpecialistSupportResourceAvailabilitySchedule"
+    },
+    "salesSpecialistSupportResourceReference" : "742916"
+  },
+  "salesSpecialistSupportAdministrativePlanRetrieveActionTaskReference" : "SSSAPRATR713427",
+  "salesSpecialistSupportAdministrativePlanInstanceReportRecord" : {
+    "salesSpecialistSupportAdministrativePlanInstanceReportType" : "salesSpecialistSupportAdministrativePlanInstanceReportType",
+    "salesSpecialistSupportAdministrativePlanInstanceReportData" : "salesSpecialistSupportAdministrativePlanInstanceReportData",
+    "salesSpecialistSupportAdministrativePlanInstanceReport" : {}
+  },
+  "salesSpecialistSupportAdministrativePlanRetrieveActionResponse" : "salesSpecialistSupportAdministrativePlanRetrieveActionResponse",
+  "salesSpecialistSupportAdministrativePlanInstanceAnalysis" : {
+    "salesSpecialistSupportAdministrativePlanInstanceAnalysisReport" : {},
+    "salesSpecialistSupportAdministrativePlanInstanceAnalysisData" : "salesSpecialistSupportAdministrativePlanInstanceAnalysisData",
+    "salesSpecialistSupportAdministrativePlanInstanceAnalysisReportType" : "salesSpecialistSupportAdministrativePlanInstanceAnalysisReportType"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "assignmentInstanceRecord" : {
+    "salesSpecialistSupportAssignmentFee" : "USD 250",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "salesSpecialistSupportAssignmentResult" : "salesSpecialistSupportAssignmentResult",
+    "salesSpecialistSupportAssignmentLocation" : "salesSpecialistSupportAssignmentLocation"
+  },
+  "assignmentCaptureActionTaskRecord" : {},
+  "captureResponseRecord" : {},
+  "assignmentCaptureRecordReference" : "ACRR779172",
+  "assignmentCaptureActionTaskReference" : "ACATR790194"
+}
